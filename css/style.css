@@ -1,0 +1,61 @@
+/* TODO: Style NavLinks with moving underline 
+TODO: style blog card hover effect
+TODO: style social ICONS
+TODO: style contact form
+     - rounded inputs
+     - fit submit button
+
+
+*/
+
+body {
+    color:#6f6f6f
+}
+
+.navbar-item{
+    color: #6f6f6f
+}
+
+.navbar-item:hover{
+    color: #6f6f6f;
+    border-bottom: 2px solid #6f6f6f;
+}
+
+.card {
+    box-shadow: 0 0 5px #6f6f6f;
+    border-radius: 15px;;
+}
+
+.card:hover{
+    box-shadow:  0 0 20px #6f6f6f;
+}
+
+.btn {
+    width: fit-content;
+    box-shadow: 0 3px 5px #6f6f6f;
+}
+
+.submit-btn {
+    width: fit-content;
+    box-shadow: 0 2px 3px #6f6f6f;
+    margin:auto
+}
+
+#from_name, #reply_to, #message {
+    width: 100%;
+    border-radius: 50px;
+    border: 1px solid #6f6f6f;
+    padding: 5px 0 5px 10px;
+}
+
+#message {
+    min-height: 200px;
+    border-radius: 25px;
+}
+
+.social-icon {
+    width: 50px;
+    height: 50px;
+    color: #474747;
+    margin: 15px 5px 5px;
+}
