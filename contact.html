@@ -75,7 +75,7 @@
                 <textarea type="text" name="message" id="message" placeholder="Write your message here" required></textarea>
             </div>
 
-            <input type="submit" class="btn-outline-secondary btn-rounded submit-btn" id="button" value="Send Email" >
+            <input type="submit" class="btn-outline-secondary btn-rounded submit-btn" id="button" value="Send Email" />
         </form>
     </div>
 
@@ -111,6 +111,7 @@
                 btn.value = 'Send Email';
                 alert(JSON.stringify(err));
               });
+            form.reset();
         });
 
     </script>
