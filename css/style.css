@@ -35,11 +35,27 @@ body {
     box-shadow: 0 3px 5px #6f6f6f;
 }
 
+.btn:hover {
+    box-shadow: 0 3px 5px #6f6f6f;
+}
+
+.btn:active {
+    box-shadow: none;
+}
+
 .submit-btn {
     width: fit-content;
     box-shadow: 0 2px 3px #6f6f6f;
     margin:auto;
     color: #6f6f6f;
+}
+
+.submit-btn:hover {
+    box-shadow: 0 3px 5px #6f6f6f;
+}
+
+.submit-btn:active {
+    box-shadow: none;
 }
 
 #from_name, #reply_to, #message {
