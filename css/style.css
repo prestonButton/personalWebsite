@@ -36,11 +36,11 @@ body {
 }
 
 .btn:hover {
-    box-shadow: 0 3px 5px #6f6f6f important;
+    box-shadow: 0 3px 5px #6f6f6f !important;
 }
 
 .btn:active {
-    box-shadow: none important;
+    box-shadow: none !important;
 }
 
 .submit-btn {
@@ -51,11 +51,11 @@ body {
 }
 
 .submit-btn:hover {
-    box-shadow: 0 3px 5px #6f6f6f important;
+    box-shadow: 0 3px 5px #6f6f6f !important;
 }
 
 .submit-btn:active {
-    box-shadow: none important;
+    box-shadow: none !important;
 }
 
 #from_name, #reply_to, #message {
