@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <Navbar />
-      <h1>preston button</h1>
+      {/* <h1>preston button</h1> */}
     </div>
   )
 }
