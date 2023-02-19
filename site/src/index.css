@@ -1,6 +1,33 @@
+/* This Stylesheet is only for global styles. Anything else should be placed in component stylesheets */
+
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@100;200;500&display=swap');
 
 * {
-  box-sizing: border-box;
   font-family: Montserrat;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #172236;
+  background-image: radial-gradient(
+      550px circle at 0% 0%,
+      #354F7E 15%,
+      #2D446C 35%,
+      #1E2D48 75%,
+      #1D2B44 80%,
+      transparent 100%
+    ),
+    radial-gradient(
+      950px circle at 100% 100%,
+      #4466A2 15%,
+      #2D446C 45%,
+      #1E2D48 75%,
+      #1D2B44 80%,
+      transparent 100%
+    );
+  background-repeat: no-repeat;
+  height: 100vh;
+
+  color: #fff
 }
