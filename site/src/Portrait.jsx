@@ -1,9 +1,10 @@
 import React from "react";
+import Overlay from "./overlay";
 import "./Portrait.css";
 
 export default function Portrait() {
   return (
-    <div className="App">
+    <div>
       <div class="wrapper">
         <div class="portrait">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit amet
@@ -559,12 +560,7 @@ export default function Portrait() {
           voluptates, quia, quod, voluptas quae quos voluptatem quas
           exercitationem quibusdam voluptatum quia quidem dolorum. Quisquam
         </div>
-        <div className="overlay">
-          <div className="overlay--Header_Text">
-            <p className="Header--name">Preston Button</p>
-            <p className="Header--title">Frontend Developer</p>
-          </div>
-        </div>
+        <Overlay />
       </div>
     </div>
   );
