@@ -1,0 +1,18 @@
+.icons {
+    margin-left: 50px;
+}
+
+.icons > a {
+    height: 3rem;
+    width: 3rem
+}
+
+.icon {
+    color: white;
+    font-size: 2rem;
+    margin-right: 1rem;
+}
+
+.icon:hover {
+    color: #808080;
+}
