@@ -560,7 +560,7 @@ export default function Portrait() {
           exercitationem quibusdam voluptatum quia quidem dolorum. Quisquam
         </div>
         <div className="overlay">
-          <div className="overlay--content">
+          <div className="overlay--Header_Text">
             <p className="Header--name">Preston Button</p>
             <p className="Header--title">Frontend Developer</p>
           </div>

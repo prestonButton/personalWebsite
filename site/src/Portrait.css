@@ -42,7 +42,7 @@
   z-index: 2; /* set a higher z-index value than the portrait element */
 }
 
-.overlay--content {
+.overlay--Header_Text {
   margin-left: 50px;
   color: #fff;
   font-family: Helvetica, sans-serif;
@@ -59,4 +59,10 @@
   font-weight: 300;
   margin-bottom: 1rem;
   margin-top: -0.35rem;
+}
+
+.fab {
+  color: #fff;
+  font-size: 1.5rem;
+  margin-right: 0.5rem;
 }
