@@ -521,13 +521,49 @@ export default function Portrait() {
           quaerat quidem officia possimus quibusdam molestias, hic maxime,
           commodi amet vitae vel illum. Iste id laudantium sunt at ab rerum
           deserunt? In quibusdam esse non cum perspiciatis explicabo
-          reprehenderit sit molestiae accusamus ea.
+          reprehenderit sit molestiae accusamus ea. Quisquam, quod. Quisquam
+          voluptates, quia, quod, voluptas quae quos voluptatem quas
+          exercitationem quibusdam voluptatum quia quidem dolorum. Quisquam
+          voluptates, quia, quod, voluptas quae quos voluptatem quas
+          exercitationem quibusdam voluptatum quia quidem dolorum.
+          QuisquamLaboriosam impedit nostrum optio culpa nostrum atque veniam
+          numquam? Consequatur nulla corrupti tempora. Consequatur temporibus,
+          odit voluptates eos recusandae qui nesciunt quos molestias quibusdam,
+          dicta beatae autem nulla quidem accusantium culpa odio voluptatibus!
+          Esse fugiat mollitia eum laboriosam non ipsa deleniti sed vitae
+          reiciendis architecto numquam obcaecati perferendis ex odio
+          consequuntur ea, iusto inventore cumque! Ab qui voluptates optio alias
+          illo saepe. Consectetur dolor reiciendis cupiditate voluptatem debitis
+          quaerat quidem officia possimus quibusdam molestias, hic maxime,
+          commodi amet vitae vel illum. Iste id laudantium sunt at ab rerum
+          deserunt? In quibusdam esse non cum perspiciatis explicabo
+          reprehenderit sit molestiae accusamus ea. Quisquam, quod. Quisquam
+          voluptates, quia, quod, voluptas quae quos voluptatem quas
+          exercitationem quibusdam voluptatum quia quidem dolorum. Quisquam
+          voluptates, quia, quod, voluptas quae quos voluptatem quas
+          exercitationem quibusdam voluptatum quia quidem dolorum.
+          QuisquamLaboriosam impedit nostrum optio culpa nostrum atque veniam
+          numquam? Consequatur nulla corrupti tempora. Consequatur temporibus,
+          odit voluptates eos recusandae qui nesciunt quos molestias quibusdam,
+          dicta beatae autem nulla quidem accusantium culpa odio voluptatibus!
+          Esse fugiat mollitia eum laboriosam non ipsa deleniti sed vitae
+          reiciendis architecto numquam obcaecati perferendis ex odio
+          consequuntur ea, iusto inventore cumque! Ab qui voluptates optio alias
+          illo saepe. Consectetur dolor reiciendis cupiditate voluptatem debitis
+          quaerat quidem officia possimus quibusdam molestias, hic maxime,
+          commodi amet vitae vel illum. Iste id laudantium sunt at ab rerum
+          deserunt? In quibusdam esse non cum perspiciatis explicabo
+          reprehenderit sit molestiae accusamus ea. Quisquam, quod. Quisquam
+          voluptates, quia, quod, voluptas quae quos voluptatem quas
+          exercitationem quibusdam voluptatum quia quidem dolorum. Quisquam
+          voluptates, quia, quod, voluptas quae quos voluptatem quas
+          exercitationem quibusdam voluptatum quia quidem dolorum. Quisquam
         </div>
-        <div className='overlay'>
-            <div className='overlay__content'>
-                <h1>Preston Button</h1>
-                <h3>Frontend Developer</h3>
-            </div>
+        <div className="overlay">
+          <div className="overlay--content">
+            <p className="Header--name">Preston Button</p>
+            <p className="Header--title">Frontend Developer</p>
+          </div>
         </div>
       </div>
     </div>
