@@ -16,12 +16,32 @@
 .Header--name {
   font-size: 5rem;
   font-weight: 300;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
 
 .Header--title {
   font-size: 2rem;
   font-weight: 300;
   margin-bottom: 1rem;
-  margin-top: -0.35rem;
+  margin-top: -0.45rem;
 }
+
+@media screen and (max-width: 600px) {
+  .Header--name {
+    font-size: 3rem;
+  }
+  .Header--title {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .Header--name {
+    font-size: 2rem;
+  }
+  .Header--title {
+    font-size: 1.5rem;
+  }
+}
+    
+
