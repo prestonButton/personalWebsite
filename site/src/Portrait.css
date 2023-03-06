@@ -1,0 +1,49 @@
+
+
+.wrapper {
+  height: 100vh;
+  width: 50%;
+  /* background: #000; */
+  background: linear-gradient(90deg, #000 60%, #35353500 100%); 
+  /*This part is important for centering*/
+  display: grid;
+  position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    margin: auto;
+  place-items: center;
+  z-index: 1;
+}
+
+.portrait {
+  font-size: 8px;
+  line-height: 8px;
+  text-align: justify;
+  background: url('https://cdn.discordapp.com/attachments/1082347004551778364/1082347256885280828/profilePicNoBG.png') right fixed no-repeat;
+  background-size: contain;
+  background-position: right;
+  z-index: 1;
+}
+
+/* This part is important for the feature itself */
+.portrait {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: rgba(255,255,255,.1);
+  z-index: 1;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 2; /* set a higher z-index value than the portrait element */
+}
+
+
+
+
+
