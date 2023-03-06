@@ -1,6 +1,6 @@
-import React from "react";
-import Overlay from "./overlay";
-import "./Portrait.css";
+import React from 'react';
+import Overlay from './overlay';
+import './Portrait.css';
 
 export default function Portrait() {
   return (
