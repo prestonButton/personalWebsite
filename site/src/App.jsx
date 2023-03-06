@@ -1,7 +1,6 @@
-import React from 'react'
-import './App.css'
-import Portrait from './Portrait'
-
+import React from 'react';
+import './App.css';
+import Portrait from './Portrait';
 
 function App() {
   return (
@@ -11,4 +10,4 @@ function App() {
   );
 }
 
-export default App
+export default App;
