@@ -1,4 +1,5 @@
 import React from 'react';
+import Icons from './Icons';
 import './Overlay.css';
 
 export default function Overlay() {
@@ -8,6 +9,7 @@ export default function Overlay() {
         <p className="Header--name">Preston Button</p>
         <p className="Header--title">Frontend Developer</p>
       </div>
+      <Icons />
     </div>
   );
 }
